@@ -1,0 +1,6 @@
+=== Linux Hardening Check ===
+[+] Firewall is enabled
+[+] Root login is disabled in SSH
+[*] SSH is configured to listen on port: 22
+[+] System is fully updated
+=== Hardening Check Complete ===
