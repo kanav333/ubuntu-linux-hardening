@@ -53,3 +53,8 @@ It is part of my cybersecurity learning journey to practice **server hardening, 
 - Practiced using netcat to test firewall rules.
 
 - Automated system checks with a Bash script.
+
+---
+### Example Output
+See [`demo_output.txt`](demo_output.txt) for a sample run of the script.
+
